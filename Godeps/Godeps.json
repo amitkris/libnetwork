@@ -237,8 +237,8 @@
 		},
 		{
 			"ImportPath": "github.com/godbus/dbus",
-			"Comment": "v3",
-			"Rev": "c7fdd8b5cd55e87b4e1f4e372cdb1db61dd6c66f"
+			"Comment": "v4.0.0",
+			"Rev": "5f6efc7ef2759c81b7ba876593971bfce311eab3"
 		},
 		{
 			"ImportPath": "github.com/golang/protobuf/proto",
